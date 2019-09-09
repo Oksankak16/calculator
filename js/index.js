@@ -33,7 +33,7 @@ result.addEventListener('click', ()=>display.value = eval(display.value));
 // function showResult(){
 //     if(eval(display.value)==undefined)
 //     {
-//         display.value='';
+//         display.value='0,00';
 //     }
 //     display.value=eval(display.value);
 // }
